@@ -25,11 +25,11 @@ This project implements a basic CRUD (Create, Read, Update, Delete) REST API usi
    http://localhost:4000
 
 ## API Endpoints: 
-POST /users – Create user
-GET /users – Get all users
-GET /users/:id – Get user by ID
-PUT /users/:id – Update user
-DELETE /users/:id – Delete user
+- POST /users – Create user
+- GET /users – Get all users
+- GET /users/:id – Get user by ID
+- PUT /users/:id – Update user
+- DELETE /users/:id – Delete user
 
 ## Testing
 All API endpoints were tested using Postman.
